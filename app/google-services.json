@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "723395827497",
+    "firebase_url": "https://androidfaex.firebaseio.com",
+    "project_id": "androidfaex",
+    "storage_bucket": "androidfaex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723395827497:android:646d117aef98a992",
+        "android_client_info": {
+          "package_name": "br.edu.faex.androidfaex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723395827497-o5duknq8kosgg0v22srhb7k4765n15ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi6_BzyVDi9P3GMvzR8tNxQ9Zei5Iaw8g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
